@@ -1,4 +1,5 @@
-# Byte-compiled / optimized / DLL files
+lightcast_job_postings.csv
+env/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -170,3 +171,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/lightcast_job_postings.csv
+lightcast_job_postings.csv
